@@ -10,3 +10,4 @@ Learning Outcomes:
 3. Data Visualization: Exploring distributions with Seaborn/Matplotlib.
 4. Machine Learning: Building a classifier with Scikit-Learn.
 5. Evaluation: Measuring model performance.
+6. Prediction: Prediction on new patient's data
